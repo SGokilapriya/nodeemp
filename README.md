@@ -1,10 +1,10 @@
 # nodeemp
 Simple node emp using mongodb as the back end for linux boxes. To maintain list of users and there access
 # Stock holders
-1)Admin - Able to add all kind of users and all kind of access
-2)Community manager - Able to add new users and maintain there attentance and there details
-3)Members - Able to edit there detail and able to see there attentance.
-Steps to install</br>
+1)Admin - Able to add all kind of users and all kind of access</br>
+2)Community manager - Able to add new users and maintain there attentance and there details</br>
+3)Members - Able to edit there detail and able to see there attentance.</br>
+# Steps to install
 1)Make sure that your mongodb is running  on your local machine</br>
 https://docs.mongodb.com/manual/administration/install-on-linux </br>
 2)Make sure that the machine has node js</br>
